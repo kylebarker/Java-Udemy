@@ -25,7 +25,7 @@ public class Main {
 			System.out.println("Your final score was " + finalScore);
 		}
 
-		
+
 
 
 
